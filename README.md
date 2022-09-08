@@ -2,6 +2,7 @@
 
 ### 👋 Introduction ###
 This project was created during my summer internship at lemon.markets. https://github.com/lemon-markets/content-prophet-time-series-stock-forecasting
+
 A berlin-based Fintech startup which is developing a Brokerage API and offering a Trading and Market Data API 
 
 
